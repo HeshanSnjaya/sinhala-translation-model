@@ -61,7 +61,7 @@ example_sentences = [
     "පරුමකපලිකදපුතපරුමකපලිකදපුතඋපසකහරුමසලෙණෙචතුදිසශගස"
 ]
 
-dictionary_path = "D:/Heshan/Developments/test/Translate/word_translation_dictionary.tsv"  # Update your dictionary path here
+dictionary_path = "D:/Heshan/Developments/test/sinhala-translation-model/word_translation_dictionary.tsv"  # Update your dictionary path here
 
 print("Sentence translation results:")
 for sentence in example_sentences:
